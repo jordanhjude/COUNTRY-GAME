@@ -1,23 +1,4 @@
 "use strict";
-/*
-console.log(document.querySelector(".message").textContent);
-document.querySelector(".message").textContent = "📌Correct country🎉 ";
-console.log(document.querySelector(".message").textContent);
-
-//number will be change by country
-document.querySelector(".number").textContent = "france";
-document.querySelector(".score").textContent = 10;
-
-//value
-document.querySelector(".guess").value = "france";
-console.log(document.querySelector(".guess").value);
-*/
-//eventlisten
-
-// const x = function () {
-//   console.log(france);
-// };
-//define the guess country
 
 let isClick = false;
 
